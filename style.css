@@ -15,5 +15,15 @@ a{
 }
 nav{
     color: black;
-    text-decoration: blue;
+    text-decoration: blue;  
+}
+a:hover{
+    color: blue;
+}
+header{
+    width: 100%;
+    height: 700px;
+    background-image: url(Where\'s_My_Perry_-_Banner.webp);
+    background-size: cover;
+
 }
